@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lorcana-sim": {
+      "type": "http",
+      "url": "https://lorcana-sim.fmf-x402.workers.dev/mcp"
+    }
+  }
+}
