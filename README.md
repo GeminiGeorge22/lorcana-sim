@@ -1,5 +1,7 @@
 # Lorcana Sim
 
+[![lorcana-sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/lorcana-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/lorcana-sim)
+
 Lorcana Sim is a **Disney Lorcana simulator** you add to Claude, ChatGPT, Cursor, or VS Code. Paste a deck and ask: Is this legal on Core or Infinity? How often do I ink on curve? Goldfish this list.
 
 Operated by **FMF Tools**.
